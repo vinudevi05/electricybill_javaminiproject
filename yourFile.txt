@@ -1,0 +1,11 @@
+
+
+
+
+	         Customer ID        :       1
+
+	         Customer Name      :       vinu
+
+	         Units Consumed     :       300.0
+
+	         Total Amount       :       675.0
